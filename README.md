@@ -1,5 +1,6 @@
 # mini-project
 ONLINE HOTEL BOOKING SYSTEM IN PHP USING MYSQL
+
 **User Role**
 
 - User can view Room facilities, price and availability of the room
